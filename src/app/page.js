@@ -27,7 +27,7 @@ export default function HomePage() {
           </div>
 
           <span className="text-white">
-            Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207
+            Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207 จากใจ 650612170
           </span>
 
           <div className="d-flex align-items-center gap-1">
