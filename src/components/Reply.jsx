@@ -1,3 +1,5 @@
-export const Reply = ({ userImagePath, username, replyText, likeNum }) => {
+import React from "react";
+
+export const Reply = ({}) => {
   return <div>your code here...</div>;
 };
